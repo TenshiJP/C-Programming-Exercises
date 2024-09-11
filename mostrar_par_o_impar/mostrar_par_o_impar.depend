@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599189974 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre ii\algoritmos b\mostrar_par_o_impar\main.c
+	<stdio.h>
+	<stdlib.h>
+
